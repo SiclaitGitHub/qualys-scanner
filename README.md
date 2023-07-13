@@ -12,7 +12,8 @@
 
 - Microsoft Azure (Virtual Machines/Computer)
 - Microsoft Remote Desktop
-- Qulays Cloud Platform
+- Qulays Cloud Platform (Community Version)
+- FireFox (Version 1.0.4)
 
 <h2>Operating Systems Used </h2>
 
@@ -38,6 +39,19 @@ A virtual machine (VM) on Microsoft Azure is a computing resource that uses soft
 
 Create a new Azure resource group, virtual network, subnet and virtual machine running Windows 10. Choose a VM size according to your needs. Once the VM is set up, you will need to connect to it using Remote Desktop. For this, you'll need the public IP address of the VM and the credentials you provided during the VM setup.
 </p>
+
+
+<img width="1424" alt="Screen Shot 2023-07-13 at 2 27 34 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/53ab2396-d9be-455f-8265-3aaba48b876b">
+
+2. Install Mozilla FireFox (Version 104.0)
+
+Mozilla Firefox, commonly known as Firefox, is a free and open-source web browser developed by the Mozilla Foundation. It is available for various operating systems, including Windows, macOS, Linux, and mobile platforms such as Android and iOS.Firefox is known for its speed, security, and flexibility, and it has gained popularity as an alternative to other web browsers. 
+
+ - Download Mozilla FireFox (Version 104.0) Of of the FireFOx website
+
+
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

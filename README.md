@@ -58,9 +58,9 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
 </p>
 <p>
  
- Qualys Cloud Platform, is a cloud-based vulnerability management and security compliance solution developed by Qualys Inc., a leading provider of cloud-based security and compliance solutions. QualysGuard helps organizations identify and mitigate security vulnerabilities, track compliance with various industry standards, and improve their overall security posture.
+2. Install Qualys Clous Platform
 
-2. Install Qualys Clous Platform 
+ Qualys Cloud Platform, is a cloud-based vulnerability management and security compliance solution developed by Qualys Inc., a leading provider of cloud-based security and compliance solutions. QualysGuard helps organizations identify and mitigate security vulnerabilities, track compliance with various industry standards, and improve their overall security posture.
 
 </p>
 <br />

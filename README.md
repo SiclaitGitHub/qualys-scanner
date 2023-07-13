@@ -1,6 +1,7 @@
 <img width="652" alt="Screen Shot 2023-07-13 at 1 55 23 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/5801bb62-8742-40e3-96a3-7b26cc8bc1cc">
-<h1>Qualys Gaurd - Vulnerability Managment Software>
-This tutorial outlines the installation of the Qualys Gurad Vulneraility Mangemnt Softerware in a Virtual Machine in Azure<br />
+<h1>Qualys Gaurd - Vulnerability Managment Software
+ 
+  This tutorial outlines the installation of the Qualys Guard Vulneraility Mangemnt Softerware on a Virtual Machine in Azure<br />
 
 
 <h2>Video Demonstration</h2>

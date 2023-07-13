@@ -1,7 +1,7 @@
 <img width="652" alt="Screen Shot 2023-07-13 at 1 55 23 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/5801bb62-8742-40e3-96a3-7b26cc8bc1cc">
-<h1>Qualys Gaurd - Vulnerability Managment Software
+<h1>Qualys Cloud Platform- Vulnerability Managment Software
  
-  This tutorial outlines the installation of the Qualys Guard Vulneraility Mangemnt Softerware on a Virtual Machine in Azure<br />
+  This tutorial outlines the installation of the Qualys Cloud Platform  on a Virtual Machine in Azure<br />
 
 
 <h2>Video Demonstration</h2>
@@ -44,9 +44,9 @@ Create a new Azure resource group, virtual network, subnet and virtual machine r
 </p>
 <p>
  
-QualysGuard, now known as Qualys Cloud Platform, is a cloud-based vulnerability management and security compliance solution developed by Qualys Inc., a leading provider of cloud-based security and compliance solutions. QualysGuard helps organizations identify and mitigate security vulnerabilities, track compliance with various industry standards, and improve their overall security posture.
+ Qualys Cloud Platform, is a cloud-based vulnerability management and security compliance solution developed by Qualys Inc., a leading provider of cloud-based security and compliance solutions. QualysGuard helps organizations identify and mitigate security vulnerabilities, track compliance with various industry standards, and improve their overall security posture.
 
-2. Install Qualys Quard Software 
+2. Install Qualys Clous Platform 
 
 </p>
 <br />

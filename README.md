@@ -1,22 +1,20 @@
 <img width="652" alt="Screen Shot 2023-07-13 at 1 55 23 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/5801bb62-8742-40e3-96a3-7b26cc8bc1cc">
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Qualys Gaurd - Vulnerability Managment Software>
+This tutorial outlines the installation of the Qualys Gurad Vulneraility Mangemnt Softerware in a Virtual Machine in Azure<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: Learn Qualys Vulnerability Management (Home Lab)](https://www.youtube.com/watch?v=l5At5WDj7v0&t=157s)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Qulays Gaurd Software
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
@@ -26,7 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 3
 - Step 4
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

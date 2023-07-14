@@ -50,19 +50,6 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
  - Download Mozilla FireFox (Version 104.0) Of of the FireFOx website
 
 
-<img width="1418" alt="Screen Shot 2023-07-14 at 5 24 23 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/c3a554d6-a02a-4d65-b658-fecb13f45a90">
-
-3. Install VirtualBox on VM1
-
-VirtualBox is a powerful and popular virtualization software developed by Oracle. It allows you to create and run multiple virtual machines (VMs) on a single physical computer, enabling you to run different operating systems simultaneously.
-
-With VirtualBox, you can install and run various guest operating systems such as Windows, Linux, macOS, and others within a virtual environment on your host computer. Each virtual machine acts as an independent computer with its own virtual hardware components, including virtual processors, memory, storage, and network interfaces.
-
-- Download latest version of Virtualbox off of the company website
-- Install WirtualBox
-- 
-
-
 <p>
 <img width="1412" alt="Screen Shot 2023-07-14 at 4 58 11 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/6ca98397-a853-4178-893d-8896aa32d168">
 
@@ -76,8 +63,21 @@ With VirtualBox, you can install and run various guest operating systems such as
 - The "Community Edition" version od Qualys is sufficient for this excersice.
 - create and account using a busines or student email to request login instruction
 - Follow the instruction in the email you recieve from Quallys
-- Log into you Qualys account on VM1 to continue thw excersise. 
+- Log into you Qualys account on VM1 to continue thw excersise.
 
+
+<img width="1413" alt="Screen Shot 2023-07-14 at 5 37 17 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/ae674a8f-6d5e-4d9e-af9d-1f8dd4416b47">
+
+
+4. Set VM1's Private IP Address to Static in Azure
+
+- On the Virtual Machine window "VM1"
+- Click 'Networking"
+- Click on the Network Interface hyperlink
+- Click on "IP Confirguration"
+- Click on the "ipconfig" hyperminl as the bottom of teh window
+- Select "Static" for the Allocation options
+- Click "Save"
 </p>
 <br />
 

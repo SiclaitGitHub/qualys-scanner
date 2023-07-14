@@ -54,11 +54,12 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1412" alt="Screen Shot 2023-07-14 at 4 58 11 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/6ca98397-a853-4178-893d-8896aa32d168">
+
 </p>
 <p>
  
-2. Install Qualys Cloud Platform
+3. Install Qualys Cloud Platform
 
  Qualys Cloud Platform, is a cloud-based vulnerability management and security compliance solution developed by Qualys Inc., a leading provider of cloud-based security and compliance solutions. QualysGuard helps organizations identify and mitigate security vulnerabilities, track compliance with various industry standards, and improve their overall security posture.
 
@@ -69,7 +70,9 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. Configure Qulays Cloud Platform
+
+
 </p>
 <br />
 

@@ -63,14 +63,29 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
 
  Qualys Cloud Platform, is a cloud-based vulnerability management and security compliance solution developed by Qualys Inc., a leading provider of cloud-based security and compliance solutions. QualysGuard helps organizations identify and mitigate security vulnerabilities, track compliance with various industry standards, and improve their overall security posture.
 
+- The "Community Edition" version od Qualys is sufficient for this excersice.
+- create and account using a busines or student email to request login instruction
+- Follow the instruction in the email you recieve from Quallys
+- Log into you Qualys account on VM1 to continue thw excersise. 
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1097" alt="Screen Shot 2023-07-14 at 5 21 58 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/892d2fb1-95c7-44be-8621-51a312e69c08">
+
 </p>
 <p>
 4. Configure Qulays Cloud Platform
+
+- Under the "Configure Scanner Appliances" on the Qualys Cloud Platform dashboard click on "Download Virtual Scanner"
+- Click on "Start Wizard"
+- Name your scanner and select you Virtualization Platform
+- Click "Next: to add a new Virtual Scanner
+- Copy and store the "personalization Code" provided
+- Click "Check Activity" to begin scanner activation
+- 
+
 
 
 </p>

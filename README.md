@@ -50,7 +50,17 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
  - Download Mozilla FireFox (Version 104.0) Of of the FireFOx website
 
 
+<img width="1418" alt="Screen Shot 2023-07-14 at 5 24 23 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/c3a554d6-a02a-4d65-b658-fecb13f45a90">
 
+3. Install VirtualBox on VM1
+
+VirtualBox is a powerful and popular virtualization software developed by Oracle. It allows you to create and run multiple virtual machines (VMs) on a single physical computer, enabling you to run different operating systems simultaneously.
+
+With VirtualBox, you can install and run various guest operating systems such as Windows, Linux, macOS, and others within a virtual environment on your host computer. Each virtual machine acts as an independent computer with its own virtual hardware components, including virtual processors, memory, storage, and network interfaces.
+
+- Download latest version of Virtualbox off of the company website
+- Install WirtualBox
+- 
 
 
 <p>

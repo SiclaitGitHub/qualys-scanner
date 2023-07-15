@@ -108,7 +108,7 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
 - Name your scanner and select you Virtualization Platform
 - Click "Next: to add a new Virtual Scanner
 - Copy and store the "Personalization Code" provided
-- Click "Check Activity" to begin scanner activation
+- Click "Check Activation" to begin scanner activation
 
 
 

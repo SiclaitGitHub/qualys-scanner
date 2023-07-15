@@ -79,7 +79,22 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
 - Select "Static" for the Allocation options
 - Click "Save"
 </p>
-<br />
+
+
+<img width="1157" alt="Screen Shot 2023-07-14 at 9 31 40 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/a3b321c0-4427-4d7e-9cda-4a6edf4d6d6a">
+
+5. Configure Virtual Machine
+
+- Open "Control Panel" application found in the "Start" menu.
+- Selet "Network and Internet"
+- Click "Network and Sharing Center"
+- Click "Ethernet"
+- Click "Properties"
+- Select "Internet Protocl Version 4 (TCP/IPv4)
+- Click "Properties"
+- Enter VM1's Public IP address
+- Click on the "Subnet Mask" text box to have it automatically generated
+- Enter the "Gateway
 
 <p>
 <img width="1097" alt="Screen Shot 2023-07-14 at 5 21 58 PM" src="https://github.com/SiclaitGitHub/qualys-scanner/assets/139138443/892d2fb1-95c7-44be-8621-51a312e69c08">
@@ -92,9 +107,9 @@ Mozilla Firefox, commonly known as Firefox, is a free and open-source web browse
 - Click on "Start Wizard"
 - Name your scanner and select you Virtualization Platform
 - Click "Next: to add a new Virtual Scanner
-- Copy and store the "personalization Code" provided
+- Copy and store the "Personalization Code" provided
 - Click "Check Activity" to begin scanner activation
-- 
+
 
 
 
